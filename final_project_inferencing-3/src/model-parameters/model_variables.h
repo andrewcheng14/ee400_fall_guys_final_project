@@ -122,7 +122,7 @@ const ei_impulse_t impulse_417030_0 = {
     .project_id = 417030,
     .project_owner = "Kaia Burgos",
     .project_name = "final project",
-    .deploy_version = 11,
+    .deploy_version = 12,
 
     .nn_input_frame_size = 39,
     .raw_sample_count = 200,
